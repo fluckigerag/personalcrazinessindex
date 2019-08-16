@@ -1,0 +1,2 @@
+# personalcrazinessindex
+Personal Craziness Index
